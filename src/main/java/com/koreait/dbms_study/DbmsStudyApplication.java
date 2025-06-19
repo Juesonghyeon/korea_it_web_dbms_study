@@ -9,5 +9,5 @@ public class DbmsStudyApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DbmsStudyApplication.class, args);
 	}
-
+//test
 }
